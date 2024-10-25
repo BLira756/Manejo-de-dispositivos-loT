@@ -36,3 +36,17 @@ Compatibilidad multiplataforma: Admite placas Arduino y microcontroladores popul
 Integración con servicios externos: Permite la conexión con aplicaciones como Google Assistant o Alexa mediante plataformas como IFTTT para ejecutar comandos automáticamente.
 
 La nube de Arduino se ha convertido en una herramienta poderosa tanto para proyectos personales como para implementaciones industriales, ofreciendo una solución escalable que se adapta a las necesidades de cada usuario. 
+
+Sensor MPU6050
+
+El MPU6050 es un sensor avanzado que combina un acelerómetro y un giroscopio de 3 ejes en un solo módulo, lo que permite medir tanto la aceleración lineal como la rotación angular de un objeto en el espacio. Además, cuenta con un procesador de movimiento digital (DMP) incorporado, lo que facilita la captura de datos precisos y la fusión de sensores para aplicaciones que requieren control de movimiento y orientación.
+
+Aplicaciones del sensor
+
+Estabilización de drones y robótica: Ayuda a mantener el equilibrio y la orientación.
+
+Controles de juegos y realidad virtual: Permite el seguimiento de movimientos precisos.
+
+Podómetros y wearables: Monitorea la actividad física detectando cambios en aceleración.
+
+Vehículos autónomos: Utilizado en sistemas de navegación inercial para estimar la posición en ausencia de GPS.
